@@ -1,0 +1,17 @@
+{
+  "name": "x-auto-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "puppeteer": "^24.4.0"
+  }
+}
